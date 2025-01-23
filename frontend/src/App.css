@@ -81,11 +81,10 @@ nav {
 }
 
 .nav__links {
-  flex: 1;
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 .link a {
