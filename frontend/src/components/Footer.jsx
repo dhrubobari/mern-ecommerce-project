@@ -31,7 +31,6 @@ const Footer = () => {
             (+012) 3456 789
           </p>
         </div>
-
         <div className="footer__col">
           <h4>COMPANY</h4>
           <a href="/">Home</a>
@@ -40,7 +39,6 @@ const Footer = () => {
           <a href="/">Our Blogs</a>
           <a href="/">Terms & Conditions</a>
         </div>
-
         <div className="footer__col">
           <h4>USEFUL LINKS</h4>
           <a href="/">Help</a>
