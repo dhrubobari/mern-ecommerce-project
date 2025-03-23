@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className="footer__bar">
-        Copyright @2025 by Mern. All rights reserved.
+        Copyright @2025 by Emazone. All rights reserved.
       </div>
     </>
   );
